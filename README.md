@@ -4,3 +4,5 @@ This repo is part of the Greenpeace Planet 4 project. Anyone can view, comment o
 This repo is under development. We'll use it more soon! In the meantime, [check out our wiki pages](http://wiki.greenpeace.org/Planet4).
 
 Updated 22.08.16
+
+Write freely.
