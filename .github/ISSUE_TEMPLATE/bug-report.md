@@ -1,7 +1,7 @@
 ---
 name: Bug report template
 about: This template will help you write up a bug report
-title: ''
+title: 'Bug:'
 labels: ''
 assignees: ''
 
