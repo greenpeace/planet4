@@ -1,7 +1,7 @@
 ---
 name: Contributor issue template
 about: This template will help us write good tasks for open contribution
-title: ''
+title: 'Task:'
 labels: easy, moderate, difficult
 assignees: ''
 
