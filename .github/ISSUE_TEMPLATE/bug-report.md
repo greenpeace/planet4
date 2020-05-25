@@ -1,3 +1,11 @@
+---
+name: Bug report template
+about: This template will help you write up a bug report
+title: ''
+labels: ''
+assignees: ''
+
+---
 #Where did you find the bug?
 *Please provide the URL where you encountered the issue/s.*
 
