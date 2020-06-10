@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/mleray"><img src="https://avatars1.githubusercontent.com/u/6949075?v=4" width="100px;" alt=""/><br /><sub><b>Maud Leray</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=mleray" title="Code">💻</a></td>
+    <td align="center"><a href="https://florenthernandez.is"><img src="https://avatars1.githubusercontent.com/u/617346?v=4" width="100px;" alt=""/><br /><sub><b>Florent Hernandez</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=lithrel" title="Code">💻</a></td>
   </tr>
 </table>
 
