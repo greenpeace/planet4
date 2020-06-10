@@ -49,6 +49,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "sagarsdeshmukh",
+      "name": "Sagar Deshmukh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5357471?v=4",
+      "profile": "http://www.ilovephp.net",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
