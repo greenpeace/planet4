@@ -112,6 +112,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "suzi-greenpeace",
+      "name": "suzi-greenpeace",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/65263490?v=4",
+      "profile": "https://github.com/suzi-greenpeace",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
   "contributorsPerLine": 7,
