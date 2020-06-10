@@ -49,6 +49,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "lithrel",
+      "name": "Florent Hernandez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/617346?v=4",
+      "profile": "https://florenthernandez.is",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
