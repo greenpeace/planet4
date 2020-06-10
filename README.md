@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://florenthernandez.is"><img src="https://avatars1.githubusercontent.com/u/617346?v=4" width="100px;" alt=""/><br /><sub><b>Florent Hernandez</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=lithrel" title="Code">💻</a></td>
     <td align="center"><a href="http://pablocubi.co"><img src="https://avatars3.githubusercontent.com/u/340766?v=4" width="100px;" alt=""/><br /><sub><b>Pablo Cúbico</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=pablocubico" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Inwerpsel"><img src="https://avatars2.githubusercontent.com/u/7604138?v=4" width="100px;" alt=""/><br /><sub><b>Pieter Vincent</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=Inwerpsel" title="Code">💻</a></td>
+    <td align="center"><a href="http://jencub"><img src="https://avatars1.githubusercontent.com/u/32348677?v=4" width="100px;" alt=""/><br /><sub><b>jencub</b></sub></a><br /><a href="#infra-jencub" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
