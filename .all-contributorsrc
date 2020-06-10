@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dajbelshaw",
+      "name": "Doug Belshaw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2429426?v=4",
+      "profile": "http://dougbelshaw.com",
+      "contributions": [
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "planet4",
+  "projectOwner": "greenpeace",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
