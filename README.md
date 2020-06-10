@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://roussos.cc"><img src="https://avatars1.githubusercontent.com/u/939357?v=4" width="100px;" alt=""/><br /><sub><b>Nikos Roussos</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=comzeradd" title="Code">💻</a></td>
     <td align="center"><a href="http://about.me/ilbrizzo"><img src="https://avatars0.githubusercontent.com/u/19947754?v=4" width="100px;" alt=""/><br /><sub><b>Luca Tiralongo</b></sub></a><br /><a href="#talk-IlBrizzo" title="Talks">📢</a></td>
     <td align="center"><a href="http://www.goldboroughstudio.com"><img src="https://avatars3.githubusercontent.com/u/34244772?v=4" width="100px;" alt=""/><br /><sub><b>William Morris-Julien</b></sub></a><br /><a href="#design-WillMorrisJulien" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/dpivo"><img src="https://avatars1.githubusercontent.com/u/48321955?v=4" width="100px;" alt=""/><br /><sub><b>dpivo</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=dpivo" title="Code">💻</a></td>
   </tr>
 </table>
 
