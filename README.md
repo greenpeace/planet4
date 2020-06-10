@@ -20,7 +20,7 @@ If you have found a bug in Planet 4, please file it [here under the issues tab](
 *README adapted from the awesome [p5.js project](https://github.com/processing/p5.js)*
 
 ## Contributors ✨
-
+There are all sorts of ways to contribute to and participate in Greenpeace's mission. We welcome contributions of all kinds. 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
