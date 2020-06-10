@@ -103,6 +103,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jencub",
+      "name": "jencub",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32348677?v=4",
+      "profile": "http://jencub",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
