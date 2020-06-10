@@ -49,6 +49,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "pablocubico",
+      "name": "Pablo Cúbico",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/340766?v=4",
+      "profile": "http://pablocubi.co",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
