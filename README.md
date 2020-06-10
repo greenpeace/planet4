@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://dougbelshaw.com"><img src="https://avatars1.githubusercontent.com/u/2429426?v=4" width="100px;" alt=""/><br /><sub><b>Doug Belshaw</b></sub></a><br /><a href="#example-dajbelshaw" title="Examples">💡</a></td>
     <td align="center"><a href="http://www.laurahilliger.com"><img src="https://avatars0.githubusercontent.com/u/539017?v=4" width="100px;" alt=""/><br /><sub><b>Laura Hilliger</b></sub></a><br /><a href="#ideas-LauraHilliger" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://roussos.cc"><img src="https://avatars1.githubusercontent.com/u/939357?v=4" width="100px;" alt=""/><br /><sub><b>Nikos Roussos</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=comzeradd" title="Code">💻</a></td>
+    <td align="center"><a href="http://about.me/ilbrizzo"><img src="https://avatars0.githubusercontent.com/u/19947754?v=4" width="100px;" alt=""/><br /><sub><b>Luca Tiralongo</b></sub></a><br /><a href="#talk-IlBrizzo" title="Talks">📢</a></td>
   </tr>
 </table>
 
