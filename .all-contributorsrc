@@ -22,6 +22,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "comzeradd",
+      "name": "Nikos Roussos",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/939357?v=4",
+      "profile": "https://roussos.cc",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
