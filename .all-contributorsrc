@@ -121,6 +121,15 @@
       "contributions": [
         "platform"
       ]
+    },
+    {
+      "login": "koyan",
+      "name": "Konstantinos Kokkorogiannis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2528229?v=4",
+      "profile": "https://github.com/koyan",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
