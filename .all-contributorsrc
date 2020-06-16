@@ -139,6 +139,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "oekeur",
+      "name": "oekeur",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14031077?v=4",
+      "profile": "https://github.com/oekeur",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
