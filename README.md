@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -45,6 +45,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://jencub"><img src="https://avatars1.githubusercontent.com/u/32348677?v=4" width="100px;" alt=""/><br /><sub><b>jencub</b></sub></a><br /><a href="#infra-jencub" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/suzi-greenpeace"><img src="https://avatars1.githubusercontent.com/u/65263490?v=4" width="100px;" alt=""/><br /><sub><b>suzi-greenpeace</b></sub></a><br /><a href="#platform-suzi-greenpeace" title="Packaging/porting to new platform">📦</a></td>
     <td align="center"><a href="https://github.com/koyan"><img src="https://avatars2.githubusercontent.com/u/2528229?v=4" width="100px;" alt=""/><br /><sub><b>Konstantinos Kokkorogiannis</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=koyan" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/magalifatome"><img src="https://avatars2.githubusercontent.com/u/66964242?v=4" width="100px;" alt=""/><br /><sub><b>Magali Fatome</b></sub></a><br /><a href="#design-magalifatome" title="Design">🎨</a></td>
   </tr>
 </table>
 
