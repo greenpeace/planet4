@@ -130,6 +130,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "magalifatome",
+      "name": "Magali Fatome",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/66964242?v=4",
+      "profile": "https://github.com/magalifatome",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
