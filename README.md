@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/magalifatome"><img src="https://avatars2.githubusercontent.com/u/66964242?v=4" width="100px;" alt=""/><br /><sub><b>Magali Fatome</b></sub></a><br /><a href="#design-magalifatome" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/oekeur"><img src="https://avatars2.githubusercontent.com/u/14031077?v=4" width="100px;" alt=""/><br /><sub><b>oekeur</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=oekeur" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.last.fm/user/funkygibbon"><img src="https://avatars3.githubusercontent.com/u/2221076?v=4" width="100px;" alt=""/><br /><sub><b>Ray Walker</b></sub></a><br /><a href="#infra-27Bslash6" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
