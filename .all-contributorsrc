@@ -148,6 +148,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "27Bslash6",
+      "name": "Ray Walker",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2221076?v=4",
+      "profile": "https://www.last.fm/user/funkygibbon",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
