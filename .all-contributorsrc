@@ -157,6 +157,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "stduerre",
+      "name": "Stefan D",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46678842?v=4",
+      "profile": "https://github.com/stduerre",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
