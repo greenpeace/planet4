@@ -166,6 +166,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "gaborgalgocz",
+      "name": "Gábor Galgócz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7243095?v=4",
+      "profile": "https://github.com/gaborgalgocz",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
