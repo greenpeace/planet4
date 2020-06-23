@@ -175,6 +175,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "andradaradu",
+      "name": "andradaradu",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/67154062?v=4",
+      "profile": "https://github.com/andradaradu",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
