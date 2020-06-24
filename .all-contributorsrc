@@ -184,6 +184,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jmarubay",
+      "name": "Julia Marubayashi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/51680590?v=4",
+      "profile": "https://github.com/jmarubay",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
