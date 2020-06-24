@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -53,6 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/stduerre"><img src="https://avatars2.githubusercontent.com/u/46678842?v=4" width="100px;" alt=""/><br /><sub><b>Stefan D</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=stduerre" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gaborgalgocz"><img src="https://avatars2.githubusercontent.com/u/7243095?v=4" width="100px;" alt=""/><br /><sub><b>Gábor Galgócz</b></sub></a><br /><a href="#translation-gaborgalgocz" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/andradaradu"><img src="https://avatars1.githubusercontent.com/u/67154062?v=4" width="100px;" alt=""/><br /><sub><b>andradaradu</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=andradaradu" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jmarubay"><img src="https://avatars1.githubusercontent.com/u/51680590?v=4" width="100px;" alt=""/><br /><sub><b>Julia Marubayashi</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=jmarubay" title="Data">🔣</a></td>
   </tr>
 </table>
 
