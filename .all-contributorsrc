@@ -111,7 +111,7 @@
       "login": "jencub",
       "name": "jencub",
       "avatar_url": "https://avatars1.githubusercontent.com/u/32348677?v=4",
-      "profile": "http://jencub",
+      "profile": "https://github.com/jencub",
       "contributions": [
         "infra"
       ]
@@ -156,7 +156,7 @@
       "login": "27Bslash6",
       "name": "Ray Walker",
       "avatar_url": "https://avatars3.githubusercontent.com/u/2221076?v=4",
-      "profile": "https://www.last.fm/user/funkygibbon",
+      "profile": "https://github.com/27Bslash6",
       "contributions": [
         "infra"
       ]
@@ -196,7 +196,25 @@
       "contributions": [
         "data"
       ]
-    }
+    },
+    {
+      "login": "tolen",
+      "name": "Kelli Tolen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15688756",
+      "profile": "https://github.com/tolen",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "r0bobo",
+      "name": "Dean Lindqvist Todevski",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14269230",
+      "profile": "https://github.com/r0bobo",
+      "contributions": [
+        "infra"
+      ]
+    },
   ],
   "projectName": "Planet 4",
   "projectOwner": "Greenpeace International",
