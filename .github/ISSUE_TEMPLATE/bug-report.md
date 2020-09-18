@@ -1,11 +1,12 @@
 ---
-name: Bug report template
+name: Bug report
 about: This template will help you write up a bug report
-title: 'Bug:'
-labels: ''
+title: ''
+labels: bug, needs triage
 assignees: ''
 
 ---
+
 # Where did you find the bug?
 
 *Please provide the URL where you encountered the issue/s.*
