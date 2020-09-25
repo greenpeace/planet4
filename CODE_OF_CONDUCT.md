@@ -4,7 +4,7 @@ We are a community of, and in solidarity with, people from every gender identity
 
 This Code of Conduct applies to every environment and platform relating to the Greenpeace Planet 4 project.
 
-Please find the [link to the Model Greenpeace Code of Conduct here](https://drive.google.com/file/d/18BvOe-2hIuRAfNvKNX5nuOnxIPwzONKj/view) & an email address of the [International Persons of Trust](conduct@greenpeace.org). 
+Please find the [link to the Model Greenpeace Code of Conduct here](https://drive.google.com/file/d/18BvOe-2hIuRAfNvKNX5nuOnxIPwzONKj/view) & an email address of the [International Persons of Trust](ltiralon@greenpeace.org). 
 
 ## Expectations
 
@@ -18,7 +18,7 @@ Please find the [link to the Model Greenpeace Code of Conduct here](https://driv
 * Private harassment is also unacceptable. If you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the Greenpeace Planet 4 moderation team immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.
 * Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
-CLICK HERE TO EMAIL THE MODERATION TEAM 
+[Click here to email the International Persons of Trust](ltiralon@greenpeace.org)
 
 ## Moderation
 
