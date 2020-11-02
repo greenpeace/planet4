@@ -1,6 +1,6 @@
 ---
 name: Contribution issue
-about: Open a new issue for our Contrubition backlog
+about: Open a new issue for our Contribution Backlog
 title: ''
 labels: Easy, Moderate, Difficult
 assignees: ''
