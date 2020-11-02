@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+<!--Please use the prompts below to describe your request. You don't have to fill everything out, but the more context you give us, the easier it will be for us to help you :) -->
+
+
 ## Brief summary of task:
 
 <!-- What do you want people to do? -->
@@ -42,4 +45,4 @@ assignees: ''
 ## Help:
 
 <!-- Provide details of where the contributor can find help if they have questions about the task.
-You can always [reach out to the Planet4 team](https://groups.google.com/u/1/a/greenpeace.org/g/planet4-group) if you have a question. -->
+You can always reach out to the Planet4 team at planet4-pm-group@greenpeace.org if you have a question. -->
