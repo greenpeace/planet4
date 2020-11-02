@@ -1,5 +1,5 @@
 ---
-name: Fearure idea
+name: Feature idea
 about: Suggest a new idea
 title: ''
 labels: Feature, Needs Triage
