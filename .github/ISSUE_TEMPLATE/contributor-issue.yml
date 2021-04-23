@@ -1,0 +1,74 @@
+name: Contribution issue
+description: Open a new issue for our Contribution Backlog
+labels: [easy, moderate, difficult]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Please use the prompts below to describe your request. You don't have to fill everything out, but the more context you give us, the easier it will be for us to help you :)
+- type: textarea
+  attributes:
+    label: "Brief summary of task:"
+    description: |
+      What do you want people to do?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Objectives of task:"
+    description: |
+      List a summary of objectives for this task.
+    placeholder: e.g. why is this task important?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Relevant documentation:"
+    description: |
+      Provide links to relevant documentation that contributors will need to complete this task effectively.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Other resources:"
+    description: |
+      Link to any other support materials or resources that will help a contributor with this task.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Estimated length of task:"
+    description: |
+      How long do you estimate this task will take?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Timeline for task:"
+    description: |
+      When would you like this task to be completed?
+      Are there any date restrictions for when it can commence?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Dependencies on other work:"
+    description: |
+      Are there any dependencies? List these and outline where how this task aligns with the other work.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Example of similar work:"
+    description: |
+      If there are any examples of similar work that would help contributors, please point to them here.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: "Help:"
+    description: |
+      Provide details of where the contributor can find help if they have questions about the task.
+      You can always [reach out to the Planet4 team at planet4-pm-group@greenpeace.org](mailto:planet4-pm-group@greenpeace.org) if you have a question.
+  validations:
+    required: false

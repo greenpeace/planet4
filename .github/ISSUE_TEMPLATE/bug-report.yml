@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a new bug
+labels: [bug, needs triage]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug report!
+- type: input
+  attributes:
+    label: Where did you find the bug?
+    description: Please provide the URL where you encountered the issue/s.
+    placeholder: e.g. https://www.example.com
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: What went wrong?
+    description: |
+      Please provide a brief summary of the issue. We will use this as the subject in the emails and tickets that refer to this bug.
+      You can provide a more detailed description in the following question.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Here's the problem:"
+    description: |
+      Describe the problem: What were you not able to do? What is not happening as expected? Be specific!
+      The more detail you give, the less likely our bots are going to call you for more information.
+      If you can, please provide the Steps to Reproduce the bug, e.g. "I clicked on X and then I scrolled and then when I clicked on Y this weird thing happened..."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Do you have screenshots?"
+    description: |
+      Screen captures of the issue are super useful to quickly replicate it.
+      You can upload screenshots to this ticket; a gif replicating the error will literally give us shivers.
+  validations:
+    required: false
