@@ -7,7 +7,7 @@
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": false,
   "contributorsSortAlphabetically": false,
-  "contributors":[
+  "contributors": [
     {
       "login": "dajbelshaw",
       "name": "Doug Belshaw",
@@ -214,10 +214,19 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "aeisenberg",
+      "name": "Andrew Eisenberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/363559?v=4",
+      "profile": "https://github.com/aeisenberg",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "projectName": "Planet 4",
-  "projectOwner": "Greenpeace International",
+  "projectName": "planet4",
+  "projectOwner": "greenpeace",
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none"
