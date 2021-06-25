@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/tolen"><img src="https://avatars1.githubusercontent.com/u/15688756?s=100" width="100px;" alt=""/><br /><sub><b>Kelli Tolen</b></sub></a><br /><a href="#ideas-tolen" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/r0bobo"><img src="https://avatars3.githubusercontent.com/u/14269230?s=100" width="100px;" alt=""/><br /><sub><b>Dean Lindqvist Todevski</b></sub></a><br /><a href="#infra-r0bobo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/aeisenberg"><img src="https://avatars.githubusercontent.com/u/363559?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrew Eisenberg</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=aeisenberg" title="Code">💻</a></td>
+    <td align="center"><a href="https://keevan.dev"><img src="https://avatars.githubusercontent.com/u/10778294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keevan</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=DanceParty" title="Code">💻</a></td>
   </tr>
 </table>
 
