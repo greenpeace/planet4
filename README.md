@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://keevan.dev"><img src="https://avatars.githubusercontent.com/u/10778294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keevan</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=DanceParty" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/GP-Dan-Tovbein"><img src="https://avatars.githubusercontent.com/u/77975803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dan Tovbein</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=GP-Dan-Tovbein" title="Code">💻</a></td>
     <td align="center"><a href="http://lovlin-thakkar.github.io"><img src="https://avatars.githubusercontent.com/u/19681278?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lovlin Thakkar</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=lovlin-thakkar" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kritisingh1"><img src="https://avatars.githubusercontent.com/u/22004158?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kriti Singh</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=kritisingh1" title="Code">💻</a></td>
   </tr>
 </table>
 
