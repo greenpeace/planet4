@@ -1,6 +1,6 @@
 # Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Planet4](./planet4.png)
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sg7801"><img src="https://avatars.githubusercontent.com/u/61888364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Srishti Guleria</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=sg7801" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/aliya-rahmani"><img src="https://avatars.githubusercontent.com/u/65673692?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aliya Rahmani</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=aliya-rahmani" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/MridulaGarg"><img src="https://avatars.githubusercontent.com/u/33130181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mridula Garg</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=MridulaGarg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/for"><img src="https://avatars.githubusercontent.com/u/7262123?v=4?s=100" width="100px;" alt=""/><br /><sub><b>for</b></sub></a><br /><a href="https://github.com/greenpeace/planet4/commits?author=for" title="Code">💻</a></td>
   </tr>
 </table>
 
