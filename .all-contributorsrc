@@ -304,11 +304,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mardelnet",
+      "name": "Pedro Figueroa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59029273?v=4",
+      "profile": "https://linktr.ee/pedrofigueroa1989",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "planet4",
   "projectOwner": "greenpeace",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }
