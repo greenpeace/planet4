@@ -5,7 +5,7 @@
 
 ![Planet4](./planet4.png)
 
-Built on top of Wordpress tech, Greenpeace Planet 4 powers digital platforms to engage with millions and win campaigns around the world. The [Planet 4 Handbook](https://planet4.greenpeace.org/) contains an overview of the project, along with documentation and examples.
+Built on top of Wordpress tech, Greenpeace Planet 4 powers digital platforms to engage with millions and win campaigns around the world. The [Planet 4 landing page](https://planet4.greenpeace.org/) contains an overview of the project, along with documentation links and examples.
 
 # 👥 Community
 We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
@@ -13,7 +13,7 @@ We are a community of, and in solidarity with, people from every gender identity
 Please read our [code of conduct](https://github.com/greenpeace/planet4/blob/master/CODE_OF_CONDUCT.md) for more details.
 
 # 🤖 Get started!
-To get set up with a Planet 4 development environment, please follow the instructions in the [technical documentation](https://support.greenpeace.org/planet4/development/installation). Additional context and information can be found in the [Planet 4 Handbook](https://planet4.greenpeace.org/). You may also find the [Planet 4 Styleguide](https://planet4.greenpeace.org/styleguide/) useful.
+To get set up with a Planet 4 development environment, please follow the instructions in the [technical documentation](https://support.greenpeace.org/planet4/development/installation). Additional context and information can be found in the [Planet 4 Handbook](https://planet4.greenpeace.org/handbook/). You may also find the [Planet 4 Design System](https://p4-designsystem.greenpeace.org/) useful.
 
 # ⚠️ Issues
 If you have found a bug in Planet 4, please file it [here under the issues tab](https://github.com/greenpeace/planet4/issues). You can also request new features. In both cases please use the templates to help structure the issues you create.
